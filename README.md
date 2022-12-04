@@ -64,7 +64,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="" target="_blank"><img src=""/></a> <a href="https://www.twitch.tv/whymcwhendoom" target="_blank"><img src="https://img.shields.io/twitch/status/whymcwhendoom?color=%236441a5%20&label=%20&logo=twitch&logoColor=white&style=for-the-badge"/></a></p>
+<p align="center"><a href="https://www.twitch.tv/whymcwhendoom" target="_blank"><img src="https://img.shields.io/twitch/status/whymcwhendoom?color=%236441a5%20&label=%20&logo=twitch&logoColor=white&style=for-the-badge"/></a></p>
 </div>
 <br>
 <div>
